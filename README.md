@@ -5,19 +5,16 @@
     <td width="70%">
       <h3>
         I'm a Computer Engineering student with a strong interest in both frontend and backend development.<br/>
-I enjoy full-stack development because it allows me to build complete, functional applications — from designing clean and responsive user interfaces to developing efficient server-side logic and managing databases.
-I’m passionate about creating systems that are not only visually appealing but also structured, scalable, and reliable under the hood.
-</h3>
-
+        I enjoy full-stack development because it allows me to build complete, functional applications — from designing clean and responsive user interfaces to developing efficient server-side logic and managing databases.<br/>
+        I’m passionate about creating systems that are not only visually appealing but also structured, scalable, and reliable under the hood.
+      </h3>
     </td>
     <td width="30%" align="right">
-      <img
-        src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHYzbmx1azBtcjV6eHdpanlmeWl1NXQ1ZHpyczYxNzNmMnVscDVzbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ENY5vJgJPEfG3Ym14H/giphy.gif"
-        height="200"
-      />
+      <img src="https://media1.giphy.com/media/ENY5vJgJPEfG3Ym14H/giphy.gif" height="200" alt="coding gif"/>
     </td>
   </tr>
 </table>
+
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&theme=cobalt" />
 
